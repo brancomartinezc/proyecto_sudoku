@@ -9,3 +9,5 @@ Instrucciones de juego:
 - Cuando quieras verificar si tu solucion es correcta apreta en el boton correspondiente.
 
 <ins>Por que las celdas fijas nunca se marcan en rojo?</ins> Decidi hacerlo asi porque mi idea es que en todo momento el jugador sepa cual celda es fija y cual no (por ello tambien tienen un color diferente), sin importar si se esta rompiendo alguna regla ya que realmente la que va a tener que corregirse es la celda jugable, una celda fija ya es correcta por defecto. La utilidad de esto comienza a verse cuando hay muchas celdas ocupadas y resulta de ayuda saber cual es fija y cual no.
+
+Jar exportado con jdk 14.0.1

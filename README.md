@@ -3,7 +3,7 @@
 El juego se encarga de verificar que en el archivo solo haya numeros entre 1 y 9 (inclusive) y la solucion de sudoku sea valida.
 Si el archivo tiene mas de 9 filas y/o columnas, todas aquellas que esten de mas seran ignoradas por el juego y se utilizaran las primeras 9 filas y columnas. Esta hecho de esa manera para que, por ejemplo, si el archivo tiene una solucion valida pero hay cosas extras afuera de las filas y columnas, igualmente el juego puedo comenzar utilizando lo que sirve.
 
-Instrucciones de juego:
+<ins>Instrucciones de juego:</ins>
 - Primero tenes que elegir el numero que quieras desde el menu de OPCIONES y despues tocar la celda donde quieras ponerlo (Por defecto arranca en 1).
 - Si una celda esta incumpliendo alguna regla, se va a poner en ROJO, excepto las celdas fijas.
 - Cuando quieras verificar si tu solucion es correcta apreta en el boton correspondiente.
